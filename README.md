@@ -1,137 +1,164 @@
-<!-- ================= HERO ================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Tushar%20Bhoir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F0C29,50:302B63,100:24243E&text=Tushar%20Bhoir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# ⚡ Full Stack Developer | AI Explorer | Builder
+# ⚡ Building Intelligence, One Model at a Time
 
-### "Turning caffeine into scalable applications."
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+KalaKart;Learning+System+Design;Exploring+AI+Engineering;Always+Shipping+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Learner;Exploring+LLMs+and+Deep+Learning;Learning+System+Design;Always+Building+Something+New"/>
 
 </div>
 
 ---
 
-## 🌌 About Me
+# 🖥️ System Status
 
-```javascript
-const tushar = {
-    location: "Mumbai, India",
-    role: "Full Stack Developer",
-    
-    currentlyBuilding: [
-        "KalaKart",
-        "Production-grade web apps"
-    ],
+```bash
+> whoami
 
-    learning: [
-        "System Design",
-        "FastAPI",
-        "Cloud Architecture",
-        "LLM Engineering"
-    ],
+Tushar Bhoir
 
-    interests: [
-        "AI",
-        "Startups",
-        "Open Source",
-        "Anime"
-    ],
+> role
 
-    lifePhilosophy:
-        "Build. Break. Learn. Repeat."
-};
+Developer
+
+> current_focus
+
+Machine Learning
+Deep Learning
+Large Language Models
+System Design
+
+> interests
+
+AI
+Backend Engineering
+Cloud Computing
+Open Source
+
+> philosophy
+
+Build. Break. Learn. Repeat.
 ```
 
 ---
 
-## 🎯 Current Mission
+# ⚔️ Developer Profile
 
-- 🚀 Building **KalaKart**
-- ⚙️ Mastering **Backend Engineering**
-- ☁️ Learning **AWS & Cloud Deployment**
-- 🤖 Exploring **AI Engineering**
-- 📚 Solving **DSA Daily**
+```python
+class Tushar:
+
+    def __init__(self):
+        self.role = "Full Stack Developer"
+
+        self.currently_learning = [
+            "Machine Learning",
+            "Deep Learning",
+            "LLM Architecture",
+            "System Design",
+            "Cloud Computing"
+        ]
+
+        self.languages = [
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "Java"
+        ]
+
+        self.goal = (
+            "Become an engineer capable of "
+            "building intelligent systems "
+            "from first principles."
+        )
+
+    def life(self):
+        return "Stay curious and keep building."
+```
 
 ---
 
-## 🗡️ Tech Arsenal
+# 🎯 Current Objectives
+
+- 🤖 Master Machine Learning fundamentals
+- 🧠 Understand Deep Learning architectures
+- 🚀 Learn how LLMs work internally
+- ☁️ Explore scalable cloud infrastructure
+- ⚙️ Improve backend engineering skills
+- 📚 Strengthen DSA and problem-solving
+
+---
+
+# 🛠️ Tech Arsenal
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c" />
+</p>
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux" />
 </p>
 
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-### DevOps & Tools
+### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### Tools & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,vscode" />
 </p>
 
 ---
 
-# 🔥 Featured Projects
+# 📚 Learning Journey
 
-## 🛒 KalaKart
-
-AI-powered local marketplace platform.
-
-### Features
-
-- Secure Authentication
-- Product Management
-- Razorpay Payments
-- Image Uploads
-- AI Integrations
-- Responsive UI
-
-### Stack
-
-```yaml
-Frontend:
-  - React
-  - Tailwind
-
-Backend:
-  - Node.js
-  - Express
-
-Database:
-  - MongoDB
-
-Payments:
-  - Razorpay
+```text
+Machine Learning      █████████░░░░░░░░░░
+Deep Learning         ██████░░░░░░░░░░░░░
+LLMs                  ████░░░░░░░░░░░░░░░
+System Design         ███████░░░░░░░░░░░░
+Backend Engineering   █████████████░░░░░░
 ```
 
 ---
 
-## 🤖 AI Projects
+# 🚀 Featured Work
 
-Coming Soon...
+### 🤖 AI & Machine Learning
 
----
+Currently building projects while learning:
 
-## ⚔️ Competitive Programming
-
-```txt
-LeetCode      ██████████░░░░░░
-System Design ███████░░░░░░░░░
-Backend       ██████████████░░
-Frontend      ███████████████░
-```
+- Machine Learning Fundamentals
+- Neural Networks
+- Deep Learning Architectures
+- LLM Applications
+- AI-powered Web Applications
 
 ---
 
-# 📊 GitHub Analytics
+### 🌐 Full Stack Projects
+
+- Authentication Systems
+- REST APIs
+- Dashboard Applications
+- E-commerce Platforms
+- Modern React Applications
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
@@ -143,38 +170,61 @@ Frontend      ███████████████░
 
 ---
 
-# 📈 Contribution Activity
+# 🔥 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBhoir60&theme=tokyo-night&hide_border=true"/>
 
 ---
 
+# 🌌 Current Training Arc
+
+```yaml
+Arc Name:
+  AI Engineer Journey
+
+Primary Objective:
+  Understand intelligence from first principles
+
+Secondary Objectives:
+  - Build useful products
+  - Contribute to open source
+  - Improve engineering skills
+  - Keep learning
+
+Status:
+  In Progress...
+```
+
+---
+
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="YOUR_LINKEDIN_URL">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="YOUR_GITHUB">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/TusharBhoir60">
+    <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-</p>
+<a href="YOUR_LEETCODE_URL">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ☕ "Every bug is just an undocumented feature."
-
-<img src="https://media.tenor.com/DimzPZMypFcAAAAC/luffy-one-piece.gif" width="500"/>
+### ☕ "The more I learn, the more I realize how much I don't know."
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:24243E,50:302B63,100:0F0C29"/>
